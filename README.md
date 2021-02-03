@@ -3,11 +3,11 @@ Style-Guide-Boilerplate v3.3.2
 
 A starting point for crafting living style guides.
 
-[View Demo](http://bjankord.github.io/Style-Guide-Boilerplate/demo.html)
+[View Demo](http://atlasoutdoor.github.io/Style-Guide/demo.html)
 
 *Note: Sample patterns have been included in the demo. Your site will have its own unique patterns.*
 
-![Screenshot](http://bjankord.github.io/Style-Guide-Boilerplate/images/screenshot.png)
+![Screenshot](http://atlasoutdoor.github.io/Style-Guide/images/screenshot.png)
 
 ## Getting Started With Style Guide Boilerplate
 
@@ -67,7 +67,7 @@ You can generate a static index.html version of style guide boilerplate by runni
 `php index.php > index.html`
 
 ## Browser Support
-I've built **Style Guide Boilerplate** with progressive enhancement in mind to work on a wide range of browsers.
+The **Style Guide Boilerplate** was built with progressive enhancement in mind to work on a wide range of browsers.
 
 
 
@@ -83,7 +83,7 @@ Known supported browsers include:
 
 Tested with [BrowserStack](https://www.browserstack.com/).
 
-[![BrowserStack](https://raw.githubusercontent.com/bjankord/Style-Guide-Boilerplate/master/browserstack-logo-600x315.png)](https://www.browserstack.com/)
+[![BrowserStack](https://raw.githubusercontent.com/atlasoutdoor/Style-Guide/master/browserstack-logo-600x315.png)](https://www.browserstack.com/)
 
 If you come across any bugs, or have any other issues with the boilerplate, please open an issue here on GitHub.
 
@@ -112,6 +112,7 @@ If you come across any bugs, or have any other issues with the boilerplate, plea
 ## Credit
 Thanks to:
 
+[bjankord](https://github.com/bjankord/Style-Guide-Boilerplate).
 Jeremy Keith for letting me build on top of [Pattern Primer](https://github.com/adactio/Pattern-Primer).
 
 ## Ports
